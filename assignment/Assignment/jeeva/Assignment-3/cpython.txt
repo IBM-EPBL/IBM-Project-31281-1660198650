@@ -1,3 +1,0 @@
- Flask render_template IC:\Users\dell\Documents\GitHub\IBM-Project-31281-1660198650\Resume\app.py home
- about.htmlr
- signin.htmlr signup.htmlr
